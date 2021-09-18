@@ -1,3 +1,5 @@
+# 此為備份期末專案後端
+
 # 使用方法
 
 1. git clone https://github.com/ikl258794613/test.git
@@ -75,5 +77,3 @@ getXXXFromServer()
 8. 在 react 終端機 yaen start
 
    觀察網頁的 console 跟伺服器的終端機有沒有目標資料
-
-9. 有問題再問我，絕對不要 push 檔案到我的 test 專案
